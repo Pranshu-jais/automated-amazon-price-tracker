@@ -1,1 +1,1 @@
-# automated-amazon-price-tracker
+- automated-amazon-price-tracker that  scrape price from live amazon site and send email when price of a item become less than set price .
